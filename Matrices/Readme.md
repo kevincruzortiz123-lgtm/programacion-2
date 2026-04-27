@@ -1,1 +1,1 @@
-
+el programa esta dividido en modulos, cada uno contiene una parte del programa completo. Este primero le pide al usuario que operacion entre matrices desea hacer para luego pedirle las matrices y devolver el resultado, el programa se ejecuta indefinidamente hasta que el usuario elija salir.
